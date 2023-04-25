@@ -13,7 +13,7 @@
 
 Um repositório focado no estudo da linguagem python com exercícios.
 
-obs: retirado do livro Introdução à Python de Nilo Ney Coutinho Menezes
+obs: retirado do livro Introdução à Python de Nilo Ney Coutinho Menezes e do site Cosmo(criando pela UFMA) 
 
  # Tecnologias utilizadas
 - Git e Github
