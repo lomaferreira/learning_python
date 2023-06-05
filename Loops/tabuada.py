@@ -41,5 +41,5 @@ while i == "N":
             tabuada += 1
     sair =input(
      "Deseja sair? \nsim[Y]\n não[N]\n")
-    i=sair       
- 
+    i=sair
+    
