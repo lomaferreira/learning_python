@@ -15,3 +15,5 @@ else:
         print(f"{numeroPrimo} é primo")
     else:
         print(f"{numeroPrimo} não é primo")
+
+
